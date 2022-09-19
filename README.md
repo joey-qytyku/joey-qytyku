@@ -22,7 +22,6 @@ My laptop
 | Spec | Have|
 -|-
 CPU | Intel Core i7 Gen11 @2.8 GHz
-Board|Gigabyte B250
-RAM | 16 GB @2600 MHz
+RAM | 16 GB
 SSD | NVMe 512GB
-OS  | Xubuntu
+OS  | Gentoo
