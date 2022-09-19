@@ -22,7 +22,6 @@ My laptop
 | Spec | Have|
 -|-
 CPU | Intel Core i7 Gen11 @2.8 GHz
-GPU | EVGA GTX 1050ti
 Board|Gigabyte B250
 RAM | 16 GB @2600 MHz
 SSD | NVMe 512GB
