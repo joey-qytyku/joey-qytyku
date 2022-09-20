@@ -25,3 +25,4 @@ CPU | Intel Core i7 Gen11 @2.8 GHz
 RAM | 16 GB
 SSD | NVMe 512GB
 OS  | Gentoo
+DE  | i3 Window Manager
