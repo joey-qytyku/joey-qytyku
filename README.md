@@ -8,15 +8,16 @@ Programming Languages:
 * Python
 * Lua?
 
-My ~~potato~~ desktop
+My desktop
 | Spec | Have|
 -|-
-CPU | Intel Core i3 7100 @3.9 GHz
-GPU | EVGA GTX 1050ti
-Board|Gigabyte B250
-RAM | x1 8GB @2133 MHz
-HDD | Western Digital Blue 1TB
-OS  | Windows 10 Home
+Model| ThinkStation P510
+CPU | Intel Xeon E5-2680 v4
+RAM | x4 64GB @2133 MHz
+GPU | NVIDIA Quadro K620
+HDD | 860 GB Samsung SSD
+OS  | Debian
+DE  | KDE Plasma
 
 My laptop
 | Spec | Have|
