@@ -1,6 +1,6 @@
 👋 Hi, I’m @joey-qytyku
 
-I am interested in operating system development on resource-constrained environments. My current project is codemaned OS/90.
+I am interested in operating system development on resource-constrained environments. My current project is codenamed OS/90.
 
 Programming Languages:
 * Assembly
@@ -12,9 +12,9 @@ My desktop
 | Spec | Have|
 -|-
 Model| ThinkStation P510
-CPU | Intel Xeon E5-2680 v4
+CPU | Intel Xeon E5-2680v4 14 core
 RAM | x4 64GB @2133 MHz
-GPU | NVIDIA Quadro K620
+GPU | GeForce GTX 1050ti 4G
 HDD | 860 GB Samsung SSD
 OS  | Debian
 DE  | KDE Plasma
@@ -25,5 +25,5 @@ My laptop
 CPU | Intel Core i7 Gen11 @2.8 GHz
 RAM | 16 GB
 SSD | NVMe 512GB
-OS  | Gentoo
-DE  | i3 Window Manager
+OS  | Qubes OS
+DE  | XFCE
