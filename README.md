@@ -22,6 +22,7 @@ DE  | KDE Plasma
 My laptop
 | Spec | Have|
 -|-
+Model|ThinkPad E15
 CPU | Intel Core i7 Gen11 @2.8 GHz
 RAM | 16 GB
 SSD | NVMe 512GB
