@@ -8,6 +8,8 @@ Programming Languages:
 * Assembly
 * Java
 
+See file selections.txt for links to samples of code I have written.
+
 My laptop
 | Spec | Have|
 -|-
