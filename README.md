@@ -10,7 +10,7 @@ Programming Languages:
 
 See file [selections.txt](https://github.com/joey-qytyku/joey-qytyku/blob/master/selections.md) for links to samples of code I have written.
 
-My laptop
+My specs:
 | Spec | Have|
 -|-
 Model|MacBook Pro
