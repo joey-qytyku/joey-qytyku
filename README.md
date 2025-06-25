@@ -8,7 +8,7 @@ Programming Languages:
 * Assembly
 * Java
 
-See file selections.txt for links to samples of code I have written.
+See file [selections.txt](https://github.com/joey-qytyku/joey-qytyku/blob/master/selections.md) for links to samples of code I have written.
 
 My laptop
 | Spec | Have|
