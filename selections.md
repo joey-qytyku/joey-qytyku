@@ -1,7 +1,5 @@
 # My Code Samples
 
-This file contains links to various bits of code I have written that are complete, functional, and representative of how I write programs.
-
 Some links may change. I will do my best to update this file accordingly.
 
 ## [printf](https://github.com/joey-qytyku/OS-90-fixed/blob/master/SHARED/printf/printf2.c)
